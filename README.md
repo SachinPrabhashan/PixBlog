@@ -1,3 +1,3 @@
-#PixBlog - Laravel Blog
+# PixBlog - Laravel Blog
 
-Download Project Here : https://shorturl.at/flpq2
+Download Project Here: https://shorturl.at/flpq2
